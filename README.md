@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 </p>
 
 ---
@@ -24,7 +21,7 @@ I'm a high school student passionate about building clean and functional softwar
 ### 🛠️ Skills & Tools
 * **Languages:** Python, C, C++
 * **Interests:** Game Mechanics, UI/UX Design, Problem Solving
-* **Tools:** Git, GitHub, CLI basics
+* **Tools:** Git, GitHub, CLI 
 
 ---
 
