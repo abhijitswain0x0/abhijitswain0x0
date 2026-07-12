@@ -21,7 +21,7 @@ I'm a high school student passionate about building clean and functional softwar
 ---
 
 ### 🛠️ Skills & Tools
-* **Languages:** Python, C, C++
+* **Languages:** Python, C, C++, Rust
 * **Interests:** UI/UX Design, Problem Solving, Automation
 * **Tools:** Git, GitHub, CLI tools
 
